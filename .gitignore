@@ -1,0 +1,13 @@
+# Local Python environments
+/.venv/
+/bin/
+/include/
+/lib/
+/share/
+/pyvenv.cfg
+
+# Generated files and local data
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+/Dataset
